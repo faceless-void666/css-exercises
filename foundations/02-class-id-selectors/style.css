@@ -8,6 +8,12 @@
   font-size: 36px;
 }
 
-.odd-numbers#special {
+.odd-numbers.number-three {
   font-size: 24px;
+}
+
+#number-four {
+  background-color: rgb(165, 212, 165);
+  font-size: 24px;
+  font-weight: bold;
 }
